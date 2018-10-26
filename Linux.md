@@ -8,6 +8,6 @@
 `:g/^/+d`
 * How to add a word at the begin/end of every line
   * at the begin:
-`%s/^/[string]`
+`:%s/^/[string]`
   * at the end:
-`%s/$/[string]`
+`:%s/$/[string]`
