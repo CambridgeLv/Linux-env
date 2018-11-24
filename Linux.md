@@ -11,6 +11,5 @@
 `:%s/^/[string]`
   * at the end:
 `:%s/$/[string]`
-* How to select all
-
+* How to select all:
 `ggVG`
