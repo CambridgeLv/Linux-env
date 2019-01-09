@@ -17,7 +17,7 @@
 * How to select:  
   * all:  
   `ggVG`
-  * all_below:  
+  * all below:  
   `VG`
-  * all_above:  
+  * all above:  
   `Vgg`
