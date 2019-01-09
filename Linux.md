@@ -1,5 +1,6 @@
 # Linux
 * How to delete lines with specific words
+
 `sed -i '/specific_words/d' file_name`
 * How to replace words in file
 `sed -i 's/old_words/new_words/g' file_name`
