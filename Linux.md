@@ -21,3 +21,8 @@
   `VG`
   * all above:  
   `Vgg`
+* How to convert case of selected words:
+  * to upper case:  
+  `gU`
+  * to lower case:  
+  `gu`
