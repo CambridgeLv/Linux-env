@@ -16,8 +16,8 @@
 `:%s/$/[string]`
 * How to select:  
   *all:  
-`ggVG`
+`ggVG`  
   *all_below:  
-`VG`
+`VG`  
   *all_above:  
-`Vgg`
+`Vgg`  
