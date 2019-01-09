@@ -1,19 +1,18 @@
 # Linux
 * How to delete lines with specific words  
 `sed -i '/specific_words/d' file_name`
-* How to replace words in file
-
+* How to replace words in file  
 `sed -i 's/old_words/new_words/g' file_name`
 # Vim
 * How to delete odd or even lines
-  * delete odd lines:
+  * delete odd lines:  
 `:g/^/d|m.`
-  * delete even lines:
+  * delete even lines:  
 `:g/^/+d`
 * How to add a word at the begin/end of every line
-  * at the begin:
+  * at the begin:  
 `:%s/^/[string]`
-  * at the end:
+  * at the end:  
 `:%s/$/[string]`
-* How to select all:
+* How to select all:  
 `ggVG`
