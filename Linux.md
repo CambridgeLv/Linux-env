@@ -3,7 +3,7 @@
 `sed -i '/specific_words/d' file_name`
 * How to replace words in file  
 `sed -i 's/old_words/new_words/g' file_name`
-* How to check the detail of the process
+* How to check the detail of the process  
 `cd /proc/[PID]`
 # Vim
 * How to delete odd or even lines
