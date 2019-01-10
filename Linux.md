@@ -27,7 +27,7 @@
   * to lower case:  
   `gu`
 * How to replace:  
-`:%s/old_words/new_words/g`
-`:s/old_words/new_words/g`
-`:'<,'>s/old_words/new_words/g`
+`:%s/old_words/new_words/g`  
+`:s/old_words/new_words/g`  
+`:'<,'>s/old_words/new_words/g`  
 `:5,12s/old_words/new_words/g`
