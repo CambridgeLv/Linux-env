@@ -26,3 +26,5 @@
   `gU`
   * to lower case:  
   `gu`
+* How to replace:  
+`:%s/old_words/new_words/g`
